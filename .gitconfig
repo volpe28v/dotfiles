@@ -1,0 +1,12 @@
+[user]
+	name = naoki kodama
+	email = naoki.koda@gmail.com
+
+[color]
+  ui = auto
+
+[core]
+  excludesfile = ~/global.gitignore
+
+[push]
+	default = matching

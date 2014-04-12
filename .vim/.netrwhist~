@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/naoki/programing/rails_work/kanban-list/app/views/tasks'
+let g:netrw_dirhist_2='/Users/naoki/programing/rails_work/kanban-list'
+let g:netrw_dirhist_3='/Users/naoki/programing/rails_work/kanban-list/app'
+let g:netrw_dirhist_4='/Users/naoki/programing/rails_work/kanban-list/app/views'
+let g:netrw_dirhist_5='/Users/naoki/programing/rails_work/kanban-list/app/views/tasks'
