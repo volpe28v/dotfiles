@@ -63,13 +63,8 @@ alias pd="pretty-diff"
 #export PATH=/Users/naoki/Library/mongodb/bin/:$PATH
 #alias mongo_start='mongod --dbpath=/Users/naoki/Library/mongodb/data'
 
-#trustia
-alias ssh_torasuke='ssh 133.242.165.246 -l kodama'
-
 #postgresql
 export PGDATA=/usr/local/var/postgres
-
-
 
 ### Added by the Heroku Toolbelt
 export PATH="/usr/local/heroku/bin:$PATH"
